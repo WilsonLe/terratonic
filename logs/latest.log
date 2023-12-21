@@ -1,57 +1,18 @@
-[13:36:36] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:36:37] [ServerMain/INFO]: Loaded 7 recipes
-[13:36:37] [ServerMain/INFO]: Loaded 1271 advancements
-[13:36:37] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[13:36:37] [Server thread/INFO]: Loading properties
-[13:36:37] [Server thread/INFO]: Default game type: SURVIVAL
-[13:36:37] [Server thread/INFO]: Generating keypair
-[13:36:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:36:37] [Server thread/INFO]: Using epoll channel type
-[13:36:37] [Server thread/INFO]: Preparing level "world"
-[13:36:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:36:39] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[13:36:39] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[13:36:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[13:36:39] [Worker-Main-15/INFO]: Preparing spawn area: 5%
-[13:36:40] [Server thread/INFO]: Time elapsed: 1772 ms
-[13:36:40] [Server thread/INFO]: Done (2.346s)! For help, type "help"
-[13:36:41] [User Authenticator #1/INFO]: UUID of player _Wils0nn_ is f1c999a4-dbb2-4c1b-b2c6-e087692bf6e1
-[13:36:41] [Server thread/INFO]: _Wils0nn_[/10.143.238.207:53472] logged in with entity id 60 at (3285.2753137295085, 49.0, 22.01619002513526)
-[13:36:41] [Server thread/INFO]: _Wils0nn_ joined the game
-[13:37:36] [Server thread/INFO]: Villager cbh['Villager'/62, l='ServerLevel[world]', x=3289.50, y=49.00, z=20.30] died, message: 'Villager was slain by Zombie Villager'
-[13:38:28] [Server thread/INFO]: [_Wils0nn_: Gave 1 [Golden Apple] to _Wils0nn_]
-[13:48:21] [Server thread/INFO]: Villager cbh['Villager'/2413, l='ServerLevel[world]', x=3925.72, y=116.50, z=165.63] died, message: 'Villager suffocated in a wall'
-[13:48:52] [Server thread/INFO]: Villager cbh['Villager'/2361, l='ServerLevel[world]', x=3905.30, y=119.00, z=130.75] died, message: 'Villager suffocated in a wall'
-[13:53:32] [Server thread/INFO]: Villager cbh['Villager'/3895, l='ServerLevel[world]', x=4206.72, y=160.00, z=16.63] died, message: 'Villager suffocated in a wall'
-[13:53:32] [Server thread/INFO]: Villager cbh['Villager'/3900, l='ServerLevel[world]', x=4204.28, y=159.00, z=9.37] died, message: 'Villager suffocated in a wall'
-[13:53:32] [Server thread/INFO]: Villager cbh['Villager'/3903, l='ServerLevel[world]', x=4202.63, y=161.56, z=-15.72] died, message: 'Villager suffocated in a wall'
-[13:53:41] [Server thread/INFO]: Villager cbh['Villager'/3979, l='ServerLevel[world]', x=4247.28, y=208.00, z=8.37] died, message: 'Villager suffocated in a wall'
-[13:55:59] [Server thread/INFO]: Villager cbh['Villager'/3929, l='ServerLevel[world]', x=4219.30, y=160.00, z=10.50] died, message: 'Villager froze to death'
-[13:55:59] [Server thread/INFO]: Villager cbh['Villager'/3896, l='ServerLevel[world]', x=4228.30, y=171.00, z=11.50] died, message: 'Villager froze to death'
-[13:57:53] [Server thread/INFO]: _Wils0nn_ has made the advancement [Isn't It Iron Pick]
-[14:00:43] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=4221, y=171, z=9} gw{x=4221, y=170, z=9}
-[14:00:43] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=4221, y=169, z=9} gw{x=4221, y=170, z=9}
-[14:00:56] [Server thread/INFO]: Villager cbh['Villager'/3951, l='ServerLevel[world]', x=4226.50, y=170.16, z=16.30] died, message: 'Villager froze to death'
-[14:08:52] [Server thread/INFO]: _Wils0nn_ has made the advancement [Best Friends Forever]
-[14:16:14] [Server thread/INFO]: Villager cbh['Librarian'/7978, l='ServerLevel[world]', x=4677.70, y=157.06, z=319.50] died, message: 'Librarian was slain by Zombie'
-[14:16:30] [Server thread/INFO]: Villager cbh['Fisherman'/7939, l='ServerLevel[world]', x=4677.70, y=157.06, z=319.48] died, message: 'Fisherman was slain by Zombie'
-[14:23:28] [Server thread/INFO]: _Wils0nn_ has made the advancement [Ice Bucket Challenge]
-[14:34:36] [Server thread/WARN]: Horse (vehicle of _Wils0nn_) moved wrongly! 0.255478841079821
-[14:41:55] [Server thread/WARN]: Mismatch in destroy block pos: gw{x=6158, y=82, z=178} gw{x=6158, y=80, z=177}
-[14:43:56] [Server thread/WARN]: Horse (vehicle of _Wils0nn_) moved wrongly! 0.33916961500847265
-[14:45:38] [Server thread/INFO]: [_Wils0nn_: Gave 1 [Lead] to _Wils0nn_]
-[14:53:35] [Server thread/WARN]: Horse (vehicle of _Wils0nn_) moved wrongly! 0.3388049288696493
-[14:53:57] [Server thread/WARN]: Horse (vehicle of _Wils0nn_) moved wrongly! 0.25420241759275086
-[15:02:19] [Server thread/INFO]: _Wils0nn_ lost connection: Disconnected
-[15:02:19] [Server thread/INFO]: _Wils0nn_ left the game
-[15:02:34] [Server thread/INFO]: Stopping the server
-[15:02:34] [Server thread/INFO]: Stopping server
-[15:02:34] [Server thread/INFO]: Saving players
-[15:02:34] [Server thread/INFO]: Saving worlds
-[15:02:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:02:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:02:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:02:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:02:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:14:51] [Server thread/INFO]: Stopping server
+[15:14:51] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:293) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:311) ~[?:?]
+	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:386) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:365) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376) ~[?:?]
+	at sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:189) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.implReadLine(BufferedReader.java:371) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:348) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:437) ~[?:?]
+	at ajn$1.run(SourceFile:89) ~[server-1.20.2.jar:?]
