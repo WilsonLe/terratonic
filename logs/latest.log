@@ -1,18 +1,11 @@
-[15:14:51] [Server thread/INFO]: Stopping server
-[15:14:51] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:293) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:311) ~[?:?]
-	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:386) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:365) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376) ~[?:?]
-	at sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:189) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.implReadLine(BufferedReader.java:371) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:348) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:437) ~[?:?]
-	at ajn$1.run(SourceFile:89) ~[server-1.20.2.jar:?]
+[21:58:33] [Server thread/INFO]: Stopping the server
+[21:58:33] [Server thread/INFO]: Stopping server
+[21:58:33] [Server thread/INFO]: Saving players
+[21:58:33] [Server thread/INFO]: Saving worlds
+[21:58:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:58:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:58:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:58:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:58:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:58:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:58:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
